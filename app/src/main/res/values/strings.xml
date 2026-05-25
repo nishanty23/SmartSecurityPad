@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Security Pad</string>
+
+    <!-- Login -->
+    <string name="label_email">Email Address</string>
+    <string name="label_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="error_empty_email">Email cannot be empty</string>
+    <string name="error_invalid_email">Enter a valid email address</string>
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_login_failed">Login failed. Check credentials.</string>
+    <string name="error_no_internet">No internet connection</string>
+
+    <!-- Dashboard -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="label_device_id">Device ID</string>
+    <string name="label_weight">Weight</string>
+    <string name="label_status">Status</string>
+    <string name="label_last_updated">Last Updated</string>
+    <string name="unit_grams">g</string>
+    <string name="status_safe">SAFE</string>
+    <string name="status_alert">ALERT</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_history">Alert History</string>
+    <string name="msg_listening">Listening for updates…</string>
+    <string name="msg_firebase_error">Firebase error: %1$s</string>
+    <string name="msg_no_data">No data available</string>
+    <string name="content_desc_warning">Warning icon</string>
+
+    <!-- Alert Dialog -->
+    <string name="alert_title">⚠ Security Alert!</string>
+    <string name="alert_message">Intrusion detected on PAD_001!\nWeight: %1$d g</string>
+    <string name="btn_dismiss">Dismiss</string>
+
+    <!-- History -->
+    <string name="title_history">Alert History</string>
+    <string name="msg_no_history">No alerts recorded yet.</string>
+    <string name="label_alert_weight">Weight: %1$d g</string>
+    <string name="label_alert_time">Time: %1$s</string>
+
+</resources>

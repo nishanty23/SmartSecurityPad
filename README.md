@@ -159,6 +159,11 @@ Watch the complete application workflow below:
 
 https://github.com/user-attachments/assets/01e842eb-a4ce-41d3-b1c3-fc09da3d677c
 
+| 🔧 Hardware Demo |
+|--------------------|
+
+https://github.com/user-attachments/assets/a293d27c-f25e-4b24-8b1c-851315ef1dbb
+
 ---
 
 ## 🔮 Future Scope

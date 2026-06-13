@@ -148,8 +148,15 @@ The project was tested using:
 
 | Assets | Laptop  | Laptop |
 |-----------|-----------|--------------|
-| <img src="Screenshots/View-Assets.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Laptop-2.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Laptop-1.jpg" width="250"> |
+| <img src="Screenshots/View-Assets-Page.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Laptop-2.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Laptop-1.jpg" width="250"> |
 
+| Backpack | Backpack | Add Asset |
+|-----------|-----------|--------------|
+| <img src="Screenshots/Asset-Details-Page-Backpack-1.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Backpack-2.jpg" width="250"> | <img src="Screenshots/Add-Asset-Page.jpg" width="250"> |
+
+| Profile |
+|-----------|
+| <img src="Screenshots/Profile-Page.jpg" width="250"> |
 
 ---
 

@@ -117,4 +117,6 @@ https://drive.google.com/file/d/1teqbFF3Ig1KtSHEtOGnKMVCoheQQaqlO/view?usp=shari
 
 This project is for educational and research purposes.
 
-![Home Screen](Home-Page-Item-Safe.jpg)
+<p align="center">
+  <img src="Home-Page-Item-Safe.jpg" width="45%">
+</p>

@@ -140,9 +140,15 @@ The project was tested using:
 
 ---
 
-## 📷 Screenshots
+## 📷 Application Walkthrough
 
-https://drive.google.com/drive/folders/13Q-cKNDPY8dfHwClsHAa9SIihMku5fVe?usp=sharing
+| Splash Screen | Home Page Safe | Home Page Alert |
+|-----------|-----------|--------------|
+| <img src="Screenshots/Splash-Screen.jpg" width="250"> | <img src="Screenshots/Home-Page-Item-Safe.jpg" width="250"> | <img src="Screenshots/Home-Page-Item-Alert.jpg" width="250"> |
+
+| Assets | Laptop  | Laptop |
+|-----------|-----------|--------------|
+| <img src="Screenshots/View-Assets.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Laptop-2.jpg" width="250"> | <img src="Screenshots/Asset-Details-Page-Laptop-1.jpg" width="250"> |
 
 
 ---
@@ -160,9 +166,3 @@ https://drive.google.com/file/d/1teqbFF3Ig1KtSHEtOGnKMVCoheQQaqlO/view?usp=shari
 ## 📄 License
 
 This project is for educational and research purposes.
-
-<p align="center">
-  <a href="Home-Page-Item-Safe.jpg">
-    <img src="Home-Page-Item-Safe.jpg" width="250"/>
-  </a>
-</p>

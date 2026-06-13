@@ -118,5 +118,7 @@ https://drive.google.com/file/d/1teqbFF3Ig1KtSHEtOGnKMVCoheQQaqlO/view?usp=shari
 This project is for educational and research purposes.
 
 <p align="center">
-  <img src="Home-Page-Item-Safe.jpg" width="250"/>
+  <a href="Home-Page-Item-Safe.jpg">
+    <img src="Home-Page-Item-Safe.jpg" width="250"/>
+  </a>
 </p>

@@ -120,16 +120,6 @@ The project was tested using:
 
 ---
 
-## 🔮 Future Scope
-
-- AI-based anomaly detection
-- TinyML integration
-- Blockchain-secured alerts
-- Cloud synchronization
-- GPS tracking integration
-
----
-
 ## 📌 Applications
 
 - Libraries
@@ -160,7 +150,11 @@ The project was tested using:
 
 ---
 
-## 🔗 Demo Video
+## 🎥 Project Demonstrations
+
+Watch the complete application workflow below:
+
+https://github.com/user-attachments/assets/54c265dd-84bb-4d23-88f0-405d80708534
 
 1) App
 https://drive.google.com/file/d/1xdqk9_mLSrhW_18Ebhyi5iH1jZWKcPO8/view?usp=sharing
@@ -170,6 +164,12 @@ https://drive.google.com/file/d/1teqbFF3Ig1KtSHEtOGnKMVCoheQQaqlO/view?usp=shari
 
 ---
 
-## 📄 License
+## 🔮 Future Scope
 
-This project is for educational and research purposes.
+- AI-based anomaly detection
+- TinyML integration
+- Blockchain-secured alerts
+- Cloud synchronization
+- GPS tracking integration
+
+---

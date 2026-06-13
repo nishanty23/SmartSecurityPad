@@ -17,6 +17,36 @@ Smart Security Pad is an IoT-based item protection and theft detection system de
 
 ---
 
+## 🏗️ Application Flow
+
+```mermaid
+flowchart TD
+    A[Launch App] --> B[User Login]
+    B --> C[Home Dashboard]
+
+    C --> D[View System Status]
+    C --> E[View Assets]
+    C --> F[View Profile]
+
+    E --> G[Select Asset]
+    G --> H[View Asset Details]
+    H --> I{Asset Secure?}
+
+    I -->|Yes| J[Display Safe Status]
+    I -->|No| K[Generate Security Alert]
+
+    K --> L[Send Notification]
+    L --> M[Update Alert History]
+
+    J --> C
+    M --> C
+
+    F --> N[Manage Settings]
+    N --> O[Logout]
+```
+
+---
+
 ## 🛠️ Technologies Used
 
 ### Hardware

@@ -154,13 +154,9 @@ The project was tested using:
 
 Watch the complete application workflow below:
 
-https://github.com/user-attachments/assets/54c265dd-84bb-4d23-88f0-405d80708534
-
-1) App
-https://drive.google.com/file/d/1xdqk9_mLSrhW_18Ebhyi5iH1jZWKcPO8/view?usp=sharing
-
-2) Hardware
-https://drive.google.com/file/d/1teqbFF3Ig1KtSHEtOGnKMVCoheQQaqlO/view?usp=sharing
+| 📱 Android App Demo | 🔧 Hardware Demo |
+|--------------------|------------------|
+| https://github.com/user-attachments/assets/54c265dd-84bb-4d23-88f0-405d80708534 | https://github.com/user-attachments/assets/4fe8a496-930a-47b4-97fb-64ff49987d51 |
 
 ---
 

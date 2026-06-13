@@ -154,11 +154,11 @@ The project was tested using:
 
 Watch the complete application workflow below:
 
-| 📱 Android App Demo | 🔧 Hardware Demo |
-|--------------------|------------------|
-| https://github.com/user-attachments/assets/54c265dd-84bb-4d23-88f0-405d80708534 | https://github.com/user-attachments/assets/4fe8a496-930a-47b4-97fb-64ff49987d51 |
+| 📱 Android App Demo |
+|--------------------|
 
-https://github.com/user-attachments/assets/54c265dd-84bb-4d23-88f0-405d80708534
+https://github.com/user-attachments/assets/01e842eb-a4ce-41d3-b1c3-fc09da3d677c
+
 ---
 
 ## 🔮 Future Scope

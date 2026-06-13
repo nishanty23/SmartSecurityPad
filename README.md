@@ -87,7 +87,21 @@ The Android application allows users to:
 
 ## 🧩 System Architecture
 
-Sensors → ESP8266/Arduino → Wi-Fi Communication → Firebase → Android App Notifications
+```mermaid
+flowchart LR
+    A["Sensors<br/>Motion / Tilt / Vibration Detection"]
+    B["ESP8266 / Arduino<br/>Data Collection & Processing"]
+    C["Wi-Fi Communication<br/>Wireless Data Transmission"]
+    D["Firebase Cloud<br/>Realtime Database & Event Processing"]
+    E["Android Application<br/>Monitoring Dashboard"]
+    F["Push Notifications<br/>Security Alerts to User"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    D --> F
+```
 
 ---
 

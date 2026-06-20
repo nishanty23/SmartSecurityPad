@@ -1,6 +1,11 @@
 package com.smartsecurity.pad.ui.history
 
-
+import android.view.LayoutInflater
+import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
+import com.smartsecurity.pad.R
+import com.smartsecurity.pad.data.model.HistoryItem
+import com.smartsecurity.pad.databinding.ItemHistoryBinding
 
 class HistoryAdapter(private val items: List<HistoryItem>) : RecyclerView.Adapter<HistoryAdapter.HistoryViewHolder>() {
 
